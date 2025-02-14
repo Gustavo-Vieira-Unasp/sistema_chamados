@@ -1,2 +1,0 @@
-#CRIA LISTA
-Lista = []
